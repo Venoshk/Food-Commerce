@@ -23,5 +23,6 @@
 
 ![ItemsPizzas](https://github.com/Venoshk/Food-Commerce/assets/104791837/63d4fa84-d4b4-4e78-abc9-9c9f050dc2ce)
 
+![HotDog](https://github.com/Venoshk/Food-Commerce/assets/104791837/335c5c0b-d164-4403-9a37-315a9fdf3fe2)
 
 ![carrinho](https://github.com/Venoshk/Food-Commerce/assets/104791837/43fafc1d-03e9-407f-969c-e20dd7cef177)
