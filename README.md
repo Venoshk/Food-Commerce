@@ -1,4 +1,4 @@
-![todoItems](https://github.com/Venoshk/Food-Commerce/assets/104791837/445f3dbf-cfaf-4d49-ba15-6ef138dcf1cd)##<h1>Food-Commecer com React JS</h1>
+##<h1>Food-Commecer com React JS</h1>
 
 <p>Este é um projeto de carrinho de compras desenvolvido com React JS. Ele permite listar produtos na tela, adicionar produtos e remover produtos do carrinho.</p>
 
