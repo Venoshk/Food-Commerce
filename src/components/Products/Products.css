@@ -1,0 +1,10 @@
+.container{
+   padding: 2rem 10rem;
+   margin: 0 auto;
+   background-color: #000000;
+   color: #fff;
+   position: relative;
+   overflow: hidden;
+}
+
+

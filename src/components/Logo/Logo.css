@@ -1,0 +1,35 @@
+.content_logo{
+    font-size: 60px;
+    color: rgba(255, 0, 0, 0.479);
+    display: flex;
+    align-items: center;
+    
+}
+
+.content_logo:hover {
+    color: red;
+    animation: blink 2s infinite;
+    transition: all .3s ease-out;
+}
+
+@keyframes blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+.title{
+    font-size: 25px;
+    color: #0099ff;
+}
+
+.title > p{
+    color: red;
+    font-size: 15px;
+    font-weight: 700;
+}

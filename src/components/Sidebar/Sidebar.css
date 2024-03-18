@@ -1,0 +1,29 @@
+
+.sidebar{
+    position: fixed;
+    min-width: 130px;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(19, 16, 16);
+    box-shadow: 0 0 5px 10px rgba(250, 4, 4, 0.18);
+    transition: all .3s ease;
+    z-index: 2;
+    transform: translate(0%, 0);
+}
+
+.cart--sidebar{
+    position: absolute;
+    bottom: 10px;
+    right: 40px;
+    font-size: 30px;
+    background-color: transparent;
+    border: none;
+    color: #fff;
+}
+
+.sidebar-active{
+    transition: all .3s ease;
+    transform: translate(-110%, 0);
+}
